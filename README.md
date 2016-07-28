@@ -1,2 +1,2 @@
 # LucianQu.github.io
-Blog
+Lucian's Blog
