@@ -1,5 +1,8 @@
 QuLusheng
 
+<p>行内式 <a href="https://lucianqu.github.io/" title="我的个人博客">博客</a> 链接，带 title。</p>
+
+<p>行内式 <a href="https://github.com/LucianQu">GitHub</a> 链接。</p>
 
 # Automic
 
@@ -126,16 +129,16 @@ Markdown 支持行内式链接和引用式链接。
 
 Markdown：
 
-行内式 [博客](https://mazhuang.org "我的个人博客") 链接，带 title。
+行内式 [博客](https://lucianqu.github.io/ "我的个人博客") 链接，带 title。
 
-行内式 [GitHub](https://github.com/mzlogin) 链接。
+行内式 [GitHub](https://github.com/LucianQu) 链接。
 
 引用式 [博客][1] 链接。
 
 引用式 [GitHub][2] 链接，带 title。
 
-[1]: https://mazhuang.org
-[2]: https://github.com/mzlogin "我的 GitHub 主页"
+[1]: https://lucianqu.github.io/
+[2]: https://github.com/LucianQu "我的 GitHub 主页"
 预览效果：
 
 行内式 博客 链接，带 title。
@@ -148,26 +151,26 @@ Markdown：
 
 对应 HTML：
 
-<p>行内式 <a href="https://mazhuang.org" title="我的个人博客">博客</a> 链接，带 title。</p>
+<p>行内式 <a href="https://lucianqu.github.io/" title="我的个人博客">博客</a> 链接，带 title。</p>
 
-<p>行内式 <a href="https://github.com/mzlogin">GitHub</a> 链接。</p>
+<p>行内式 <a href="https://github.com/LucianQu">GitHub</a> 链接。</p>
 
-<p>引用式 <a href="https://mazhuang.org">博客</a> 链接。</p>
+<p>引用式 <a href="https://lucianqu.github.io/">博客</a> 链接。</p>
 
-<p>引用式 <a href="https://github.com/mzlogin" title="我的 GitHub 主页">GitHub</a> 链接，带 title。</p>
+<p>引用式 <a href="https://github.com/LucianQu" title="我的 GitHub 主页">GitHub</a> 链接，带 title。</p>
 图片
 在超链接的写法前加一个 !，就是引用图片的方法。
 
 Markdown：
 
-![Alt text](https://mazhuang.org/favicon.ico "favicon")
+![Alt text](https://github.com/LucianQu "favicon")
 预览效果：
 
 Alt text
 
 对应 HTML：
 
-<img src="https://mazhuang.org/favicon.ico" alt="Alt text" title="favicon">
+<img src="https://github.com/LucianQu" alt="Alt text" title="favicon">
 列表
 包括有序列表和无序列表。
 
