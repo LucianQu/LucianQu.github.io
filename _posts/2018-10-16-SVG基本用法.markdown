@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-17 14:05:21 +0800
-tags: jekyll update
+title:  "SVG使用介绍!"
+date:   2018-10-16 17:05:21 +0800
+tags: Android SVG
 color: rgb(255,90,90)
 cover: '../assets/test.png'
-subtitle: 'Welcome to Jekyll!'
+subtitle: 'Android&SVG'
 ---
+{% highlight ruby %}
+  SVG全称Scalable Vector Graphics（可缩放矢量图形）。
+{% endhighlight %}
+  优点：和位图（Bitmap）相对，SVG不会像位图一样因为缩放而让图片质量下降。节约空间，使用方便。
+ {% highlight ruby %}
+  使用步骤
+  {% endhighlight %}
+  1、File->New->Vector Asset，自动生成xml文件
+  2、在Imageview中android：src=“drawable/svg”
+----------------------------------------------------------End---------------------------------------------------------------------
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
