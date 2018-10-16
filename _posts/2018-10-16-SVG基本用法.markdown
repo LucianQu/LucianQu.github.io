@@ -11,8 +11,8 @@ subtitle: '入门用法'
 # SVG全称Scalable Vector Graphics（可缩放矢量图形）。
 优点：和位图（Bitmap）相对，SVG不会像位图一样因为缩放而让图片质量下降。节约空间，使用方便。
 ## 使用步骤
-1、File->New->Vector Asset，自动生成xml文件
-2、在Imageview中android：src=“drawable/svg”
+### 1、File->New->Vector Asset，自动生成xml文件
+### 2、在Imageview中android：src=“drawable/svg”
 ### ------------End-----------------
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
