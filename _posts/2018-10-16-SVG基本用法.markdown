@@ -4,7 +4,7 @@ title:  "Android中SVG基本用法!"
 date:   2018-10-16 17:05:21 +0800
 tags: Android SVG
 color: rgb(255,90,90)
-cover: '../assets/test.png'
+cover: '../assets/svg.png'
 subtitle: '入门用法'
 ---
 
